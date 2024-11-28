@@ -16,4 +16,8 @@ python lorenz_system.py
 ### Particle in Gravitational Field confined Within a Cone 
 ![](https://github.com/jacobbriones1/dynamical_systems/blob/main/imgs/cone.gif)
 
+### Improced Predator Prey Population Dynamics
+Dynamic simulation of predator prey populations which uses the Lotka-Volterra Equations, but accounts for time lags between population increases, and efficiencies of each species.
+![](https://github.com/jacobbriones1/dynamical_systems/blob/main/imgs/PredatorPrey.gif)
+
 

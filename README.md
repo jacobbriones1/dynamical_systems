@@ -4,7 +4,7 @@ A library containing many different programs to simulate dynamical systems in py
 ```
 python lorenz_system.py
 ```
-### Particle Constrained in a Cone in a Gravitaional Field
+### Bead Spinning on a Frictionless Hoop
 ![](https://github.com/user-attachments/assets/a14e841c-7c59-45e8-a15d-26d0f450f461)
 
 ### Lorenz Attractor Dynamic Simulation
@@ -12,3 +12,8 @@ python lorenz_system.py
 
 ### Double Pendulum 
 ![](https://github.com/jacobbriones1/dynamical_systems/blob/main/imgs/double_pendulum.png)
+
+### Particle in Gravitational Field confined Within a Cone 
+![](https://github.com/jacobbriones1/dynamical_systems/blob/main/imgs/cone.gif)
+
+
